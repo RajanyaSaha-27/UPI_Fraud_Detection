@@ -48,6 +48,13 @@ Built with Python, XGBoost, Scikit-learn, and Flask.
 
 ---
 
+
+##🌐 Live Link
+<p>
+<b>Live Demo:</b>
+<a href="https://marketpulse-by-codecrafters.streamlit.app/">here</a>
+</p>
+
 ## ⚙️ Run Locally
 
 1. Install dependencies:
@@ -66,12 +73,7 @@ http://127.0.0.1:5000
 
 ## 🚀 Deployment
 
-Supports easy deployment on:
-
-- Render  
-- Railway  
-- Heroku  
-
+Deployed on render 
 ---
 
 ## 📈 Future Scope
