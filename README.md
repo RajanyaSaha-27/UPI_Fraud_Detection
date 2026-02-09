@@ -49,10 +49,10 @@ Built with Python, XGBoost, Scikit-learn, and Flask.
 ---
 
 
-##🌐 Live Link
+## 🌐 Live Link
 <p>
 <b>Live Demo:</b>
-<a href="https://marketpulse-by-codecrafters.streamlit.app/">here</a>
+<a href="[https://marketpulse-by-codecrafters.streamlit.app/](https://upi-fraud-detection-q2rn.onrender.com/)">here</a>
 </p>
 
 ## ⚙️ Run Locally
@@ -68,12 +68,7 @@ python app.py
 3. Open in browser:
 
 http://127.0.0.1:5000  
-
----
-
-## 🚀 Deployment
-
-Deployed on render 
+ 
 ---
 
 ## 📈 Future Scope
