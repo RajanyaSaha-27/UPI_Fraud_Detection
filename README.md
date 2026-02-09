@@ -7,6 +7,14 @@ Built with Python, XGBoost, Scikit-learn, and Flask.
 
 ---
 
+## 🌐 Mini Research Work
+<p>
+<b>Study frm here:</b>
+<a href="https://docs.google.com/document/d/1qDsarLy7r99gQFAFCrSYOsCLBFH1N5ap/edit?usp=drive_link&ouid=101899395185329578596&rtpof=true&sd=true/">Click here</a>
+</p>
+
+---
+
 ## 📌 Features
 
 ✅ Real-time fraud detection  
