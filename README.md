@@ -52,8 +52,10 @@ Built with Python, XGBoost, Scikit-learn, and Flask.
 ## 🌐 Live Link
 <p>
 <b>Live Demo:</b>
-<a href="[https://marketpulse-by-codecrafters.streamlit.app/](https://upi-fraud-detection-q2rn.onrender.com/)">here</a>
+<a href="https://upi-fraud-detection-q2rn.onrender.com/">here</a>
 </p>
+
+---
 
 ## ⚙️ Run Locally
 
