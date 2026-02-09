@@ -91,7 +91,10 @@ Narula Institute of Technology
 ---
 
 ## 📸 Screenshots :
-<img width="1920" height="1080" alt="Screenshot 2026-02-09 174203" src="https://github.com/user-attachments/assets/4e88111f-0e0b-4d7b-8047-11688f6bf9f7" />
+<img width="829" height="845" alt="Screenshot 2026-02-09 173512" src="https://github.com/user-attachments/assets/b38e3c58-239e-4a44-9a4f-5142cac280b9" />
+<img width="838" height="838" alt="image" src="https://github.com/user-attachments/assets/c9e637e9-11e6-47a1-b3a1-1ff2c045dcf8" />
+
+
 
 
 ⭐ Star this repository if you found it useful!
